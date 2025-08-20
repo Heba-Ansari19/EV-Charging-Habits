@@ -45,7 +45,7 @@ sql
 
 SELECT *
 FROM charging_sessions
-LIMIT 5;
+LIMIT 10;
 ```
 This query displays the first 10 rows from the ```charging_sessions``` table to understand the kind of values present in each column and verify that the dataset has been loaded correctly. It helps us get an initial feel for how users interact with charging stations.
 
